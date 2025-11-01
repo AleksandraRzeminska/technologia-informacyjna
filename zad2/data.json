@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ChatGPT",
+        "year_of_invetion": 2018,
+        "paid_for_higer_versions": true
+    },
+    {
+        "name": "Sieć 5G",
+        "year_of_invetion": 2018,
+        "paid_for_higer_versions": false
+    },
+    {
+        "name": "Google Drive",
+        "year_of_invetion": 2012,
+        "paid_for_higer_versions": true
+    },
+    {
+        "name": "MySQL",
+        "year_of_invetion": 1995,
+        "paid_for_higer_versions": false
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<technologie>
+    <technologia typ="chmura">
+        <nazwa>Google Drive</nazwa>
+        <zastosowanie>Przechowywanie danych</zastosowanie>
+        <rok>2012</rok>
+    </technologia>
+    <technologia typ="AI">
+        <nazwa>ChatGPT</nazwa>
+        <zastosowanie>Przetwarzanie języka</zastosowanie>
+        <rok>2022</rok>
+    </technologia>
+    <technologia typ="baza">
+        <nazwa>MySQL</nazwa>
+        <zastosowanie>Baza danych</zastosowanie>
+        <rok>1995</rok>
+    </technologia>
+    <technologia typ="sieć">
+        <nazwa>5G</nazwa>
+        <zastosowanie>Komunikacja</zastosowanie>
+        <rok>2019</rok>
+    </technologia>
+</technologie>
