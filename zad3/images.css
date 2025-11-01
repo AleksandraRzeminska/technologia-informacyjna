@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  margin: 30px 0;
+  color: #1e1e2f;
+}
+.image-grid img {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1cm;
+  margin: 20px;
+}
+.image-grid img {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
